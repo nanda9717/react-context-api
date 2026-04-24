@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.liked{
+  border-color: #03A9F4;
+  color: #03A9F4;
+}
